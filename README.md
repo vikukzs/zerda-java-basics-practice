@@ -104,10 +104,10 @@ Blackberry is created
 ## 4. Question time! (~20 mins) [6p]
 
 ### Whats the difference between a Class and an Object? [2p]
-#### Your answer:
+#### Your answer: an object is an instance of a class, and every object has to belong to a class.
 
 ### What is the superclass when a class doesnt extend anything? What methods will it inherit (the two most important is enough)? [2p]
-#### Your answer:
+#### Your answer: every class is the subclass of Object,  inherits the public and protected methods
 
 ### What is polymorphism? [2p]
-#### Your answer:
+#### Your answer: subclasses can define their own properties but can inherit from their superclass
